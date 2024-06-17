@@ -1,0 +1,26 @@
+{
+  "name": "brms",
+  "version": "1.0.0",
+  "description": "post: creating a new user\r get: get the list of all users",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavyamamilla18/brms.git"
+  },
+  "author": "\"kavya\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavyamamilla18/brms/issues"
+  },
+  "homepage": "https://github.com/kavyamamilla18/brms#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
